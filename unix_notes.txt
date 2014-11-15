@@ -1,0 +1,752 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd ..
+    5  which git
+    6  cd Desktop/Sites/mixandstones.com/
+    7  ls
+    8  git init
+    9  git init
+   10  ls
+   11  git add -A
+   12  git status
+   13  git commit -A
+   14  git commit -a
+   15  git commit -a
+   16  git status
+   17  git remote add origin https://github.com/redfieldstefan/mixandstones.git
+   18  git push origin -u master
+   19  git pull origin master
+   20  git status
+   21  git commit home.html 
+   22  git push origin master
+   23  which sublime
+   24  cd ~
+   25  ls
+   26  cd Applications/
+   27  ls
+   28  ls
+   29  which Sublime\ Text
+   30  cd ~
+   31  ls
+   32  ls
+   33  cd ~/Applications/
+   34  ls
+   35  ls -a
+   36  cd ../Documents/
+   37  ls
+   38  cd ../Applications/
+   39  ls
+   40  cd ~
+   41  grep -R 
+   42  grep -R Sublime .
+   43  cd ~/Applications/
+   44  ls
+   45  cd Sublime\ Text\ 2
+   46  cd ~
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd Applications/
+   52  ls
+   53  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/subl
+   54  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+   55  subl .
+   56  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   57  ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   58  sudo ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   59  subl .
+   60  sudo ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../usr/local/bin/subl
+   61  subl .
+   62  subl .
+   63  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../usr/local/bin/subl
+   64  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../bin/subl
+   65  which subl
+   66  alias
+   67  vim ~/.bash_history 
+   68  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   69  mkdir ~/bin
+   70  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   71  subl 
+   72  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+   73  subl
+   74  open /../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+   75  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+   76  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/.bash_history 
+   77  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/.bash_profile
+   78  source ~/.bash_profile 
+   79  subl .
+   80  export EDITOR='subl -w'
+   81  ls
+   82  cd Desktop/Sites/
+   83  ls
+   84  cd mixandstones.com/
+   85  ls
+   86  subl home.html 
+   87  vim ~/.bash_profile 
+   88  source ~/.bash_profile 
+   89  ls
+   90  subl home.html 
+   91  git status
+   92  git commit home.html 
+   93  vim ~/.bash_profile 
+   94  export EDITOR='subl'
+   95  source ~/.bash_profile 
+   96  git commit home.html 
+   97  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   98  ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   99  ls
+  100  subl home.html 
+  101  git status
+  102  git commit
+  103  git commit home.html 
+  104  vim ~/.bash_profile 
+  105  source ~/.bash_profile 
+  106  git commit home.html 
+  107  cd ~/../../usr/
+  108  ls
+  109  cd bin/
+  110  ls
+  111  cat sudo 
+  112  sudo cat sudo
+  113  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+  114  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../usr/bin/subl
+  115  subl .
+  116  vim ~/.bash_profile 
+  117  source ~/.bash_profile 
+  118  subl .
+  119  cd ~/Desktop/Sites/mixandstones.com/
+  120  git status
+  121  git commit home.html 
+  122  git status
+  123  git commit home.html 
+  124  git status
+  125  git commit home.html 
+  126  vim ~/.bash_profile 
+  127  export EDITOR='subl -w'
+  128  ls
+  129  git commit home.html 
+  130  git config --global user.name "Stefan Redfield"
+  131  git config --global user.email redfield.stefan@gmail.com
+  132  git status
+  133  ls
+  134  cp -rf . ~/../../Applications/MAMP/htdocs/
+  135  cd ~/../../Applications/MAMP/htdocs/
+  136  ls
+  137  ls
+  138  cd Desktop/Sites/mixandstones.com/
+  139  git status
+  140  git reset --hard
+  141  git status
+  142  ls
+  143  npm install
+  144  which node
+  145  which npm
+  146  which npm
+  147  npm install
+  148  cat package.json 
+  149  grunt
+  150  npm install -g grunt-cli
+  151  npm install -g grunt
+  152  sudo npm install -g grunt-cli
+  153  grunt
+  154  gem install sass
+  155  grunt
+  156  sudo gem install
+  157  sudo gem install sass
+  158  grunt
+  159  cat server.js 
+  160  subl server.js 
+  161  subl server.js 
+  162  grunt
+  163  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  164  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  165  subl
+  166  subl
+  167  subl
+  168  pwd
+  169  cd pwd
+  170  pwd
+  171  cd/
+  172  cd /
+  173  $cd/
+  174  pwd
+  175  pwd
+  176  $cd /
+  177  $ ls
+  178  $ cd /
+  179  $ls
+  180  $ ls
+  181  ls
+  182  cd /
+  183  ls
+  184  ls -t
+  185  ls
+  186  ls -l
+  187  ls -lt
+  188  ls -lt
+  189  ls -r
+  190  ls -rt
+  191  -lrt
+  192  ls -lrt
+  193  man ls
+  194  ls -h
+  195  ls -m
+  196  ls -S
+  197  ls -v
+  198  ls -x
+  199  ls -x
+  200  ls -1
+  201  ls -a
+  202  ls -d
+  203  ls -r
+  204  ls -1
+  205  ls -2
+  206  ls -1
+  207  ls -f
+  208  ls -F
+  209  ls -L
+  210  ls -N
+  211  man ls
+  212  ls -Q
+  213  ls -S
+  214  man ls
+  215  ls -lh
+  216  ls -g
+  217  ls -h
+  218  ls -lh
+  219  man ls
+  220  ls
+  221  ls -1
+  222  pwd
+  223  cd
+  224  pwd
+  225  cd
+  226  pwd
+  227  ls
+  228  ls -l
+  229  cd Applications
+  230  ls
+  231  cd
+  232  ls
+  233  ls -l
+  234  cd Dropbox
+  235  ls
+  236  pwd
+  237  cd
+  238  ls -l
+  239  cd Desktop/
+  240  ls -l
+  241  cd sc
+  242  cd m
+  243  pwd
+  244  cd
+  245  ls -1
+  246  ls -ld
+  247  pwd
+  248  ls -l
+  249  cd Desktop
+  250  ls -1
+  251  pwd
+  252  ls -l
+  253  cd Rando's
+ls-l
+pwd
+cd Rando's
+  254  ls-l
+  255  pwd
+  256  pwd
+  257  cd Resume
+  258  ls -l
+  259  cd Drawings
+  260  ls
+  261  pwd
+  262  ..
+  263  cd ..
+  264  pwd
+  265  cd ..
+  266   pwd
+  267  cd ..
+  268  pwd
+  269  ls -l
+  270  cd Sites
+  271  pwd
+  272  ls -1
+  273  pwd
+  274  ls -1
+  275  ls -l
+  276  cd Sites
+  277  ls -1
+  278  ls -l
+  279  cd ..
+  280  cd ..
+  281  pwd
+  282  ls
+  283  cd stefanredfield
+  284  pwd
+  285  ls -l
+  286  cd Desktop
+  287  pwd
+  288  ls -l
+  289  cd Sites
+  290  ls -l
+  291  cd ../Resume
+  292  pwd
+  293  ls -l
+  294  cd ..
+  295  pwd
+  296  cd Sites
+  297  ls -l
+  298  cd bare/ frontier -INCORRECT FILE NAMEING HERE TRYING TO ENTER THE bare frontier DIRECTORY
+  299  cd bare frontier
+  300  ls -l
+  301  cd bare frontier
+  302  cd bare/ frontier
+  303  ls -l
+  304  cd bare\ frontier/ - HERE IS WHERE I LEARNED THE TAB SHORTCUT TO FILL IN THE CORRECT NAME
+  305  ls -l
+  306  cd img; ls
+  307  cs ..; ls -l
+  308  pwd
+  309  cd ..; ls -l
+  310  cd img/
+  311  pwd
+  312  ls-l
+  313  cd ..
+  314  cd img
+  315  ls
+  316  cd..
+  317  cd ..
+  318  cd ../..
+  319  ls -l
+  320  cd Sites
+  321  ls -l
+  322  cd bare\ frontier/
+  323  ls -l
+  324  cd
+  325  cd /
+  326  ls -l
+  327  cd Users
+  328  ls -l
+  329  cd stefanredfield
+  330  ls -l
+  331  cd
+  332  cd ls ..
+  333  cd .. ls
+  334  ls -l
+  335  ls ~
+  336  ls /
+  337  ls / Library
+  338  ls -l  / Library
+  339  ls /Applications
+  340  ls-l
+  341  cd..
+  342  cd ..
+  343  ls-l
+  344  ls -l
+  345  ls /Users -l
+  346  cd stefanredfield
+  347  pwd
+  348  ls -l
+  349  ls .
+  350  cd Users
+  351  ls -l
+  352  cd stefanredfield
+  353  pwd
+  354  ls -l
+  355  history
+  356  history | less -ALLOWS YOU TO VIEW THE COMMAND ONE PAGE AT A TIME
+  357  history | less
+  358  pwd ls
+  359  ls -l
+  360  history > moving_around.txt - HERE IS HOW YOU CREATED A NEW FILE, I am still confused as to creating a file in a more specific place. NOW I AM GOING TO ADD MORE INFO TO THIS FILE WITH THE history >> moving_around.txt COMMAND
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd ..
+    5  which git
+    6  cd Desktop/Sites/mixandstones.com/
+    7  ls
+    8  git init
+    9  git init
+   10  ls
+   11  git add -A
+   12  git status
+   13  git commit -A
+   14  git commit -a
+   15  git commit -a
+   16  git status
+   17  git remote add origin https://github.com/redfieldstefan/mixandstones.git
+   18  git push origin -u master
+   19  git pull origin master
+   20  git status
+   21  git commit home.html 
+   22  git push origin master
+   23  which sublime
+   24  cd ~
+   25  ls
+   26  cd Applications/
+   27  ls
+   28  ls
+   29  which Sublime\ Text
+   30  cd ~
+   31  ls
+   32  ls
+   33  cd ~/Applications/
+   34  ls
+   35  ls -a
+   36  cd ../Documents/
+   37  ls
+   38  cd ../Applications/
+   39  ls
+   40  cd ~
+   41  grep -R 
+   42  grep -R Sublime .
+   43  cd ~/Applications/
+   44  ls
+   45  cd Sublime\ Text\ 2
+   46  cd ~
+   47  cd ..
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd Applications/
+   52  ls
+   53  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/subl
+   54  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+   55  subl .
+   56  ls -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   57  ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   58  sudo ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../bin/subl
+   59  subl .
+   60  sudo ln -s "../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/../../usr/local/bin/subl
+   61  subl .
+   62  subl .
+   63  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../usr/local/bin/subl
+   64  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../bin/subl
+   65  which subl
+   66  alias
+   67  vim ~/.bash_history 
+   68  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   69  mkdir ~/bin
+   70  sudo ln -s ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   71  subl 
+   72  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+   73  subl
+   74  open /../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+   75  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl 
+   76  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/.bash_history 
+   77  ../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/.bash_profile
+   78  source ~/.bash_profile 
+   79  subl .
+   80  export EDITOR='subl -w'
+   81  ls
+   82  cd Desktop/Sites/
+   83  ls
+   84  cd mixandstones.com/
+   85  ls
+   86  subl home.html 
+   87  vim ~/.bash_profile 
+   88  source ~/.bash_profile 
+   89  ls
+   90  subl home.html 
+   91  git status
+   92  git commit home.html 
+   93  vim ~/.bash_profile 
+   94  export EDITOR='subl'
+   95  source ~/.bash_profile 
+   96  git commit home.html 
+   97  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   98  ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+   99  ls
+  100  subl home.html 
+  101  git status
+  102  git commit
+  103  git commit home.html 
+  104  vim ~/.bash_profile 
+  105  source ~/.bash_profile 
+  106  git commit home.html 
+  107  cd ~/../../usr/
+  108  ls
+  109  cd bin/
+  110  ls
+  111  cat sudo 
+  112  sudo cat sudo
+  113  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/bin/subl
+  114  sudo ln -s ~/../../Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ~/../../usr/bin/subl
+  115  subl .
+  116  vim ~/.bash_profile 
+  117  source ~/.bash_profile 
+  118  subl .
+  119  cd ~/Desktop/Sites/mixandstones.com/
+  120  git status
+  121  git commit home.html 
+  122  git status
+  123  git commit home.html 
+  124  git status
+  125  git commit home.html 
+  126  vim ~/.bash_profile 
+  127  export EDITOR='subl -w'
+  128  ls
+  129  git commit home.html 
+  130  git config --global user.name "Stefan Redfield"
+  131  git config --global user.email redfield.stefan@gmail.com
+  132  git status
+  133  ls
+  134  cp -rf . ~/../../Applications/MAMP/htdocs/
+  135  cd ~/../../Applications/MAMP/htdocs/
+  136  ls
+  137  ls
+  138  cd Desktop/Sites/mixandstones.com/
+  139  git status
+  140  git reset --hard
+  141  git status
+  142  ls
+  143  npm install
+  144  which node
+  145  which npm
+  146  which npm
+  147  npm install
+  148  cat package.json 
+  149  grunt
+  150  npm install -g grunt-cli
+  151  npm install -g grunt
+  152  sudo npm install -g grunt-cli
+  153  grunt
+  154  gem install sass
+  155  grunt
+  156  sudo gem install
+  157  sudo gem install sass
+  158  grunt
+  159  cat server.js 
+  160  subl server.js 
+  161  subl server.js 
+  162  grunt
+  163  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  164  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  165  subl
+  166  subl
+  167  subl
+  168  pwd
+  169  cd pwd
+  170  pwd
+  171  cd/
+  172  cd /
+  173  $cd/
+  174  pwd
+  175  pwd
+  176  $cd /
+  177  $ ls
+  178  $ cd /
+  179  $ls
+  180  $ ls
+  181  ls
+  182  cd /
+  183  ls
+  184  ls -t
+  185  ls
+  186  ls -l
+  187  ls -lt
+  188  ls -lt
+  189  ls -r
+  190  ls -rt
+  191  -lrt
+  192  ls -lrt
+  193  man ls
+  194  ls -h
+  195  ls -m
+  196  ls -S
+  197  ls -v
+  198  ls -x
+  199  ls -x
+  200  ls -1
+  201  ls -a
+  202  ls -d
+  203  ls -r
+  204  ls -1
+  205  ls -2
+  206  ls -1
+  207  ls -f
+  208  ls -F
+  209  ls -L
+  210  ls -N
+  211  man ls
+  212  ls -Q
+  213  ls -S
+  214  man ls
+  215  ls -lh
+  216  ls -g
+  217  ls -h
+  218  ls -lh
+  219  man ls
+  220  ls
+  221  ls -1
+  222  pwd
+  223  cd
+  224  pwd
+  225  cd
+  226  pwd
+  227  ls
+  228  ls -l
+  229  cd Applications
+  230  ls
+  231  cd
+  232  ls
+  233  ls -l
+  234  cd Dropbox
+  235  ls
+  236  pwd
+  237  cd
+  238  ls -l
+  239  cd Desktop/
+  240  ls -l
+  241  cd sc
+  242  cd m
+  243  pwd
+  244  cd
+  245  ls -1
+  246  ls -ld
+  247  pwd
+  248  ls -l
+  249  cd Desktop
+  250  ls -1
+  251  pwd
+  252  ls -l
+  253  cd Rando's
+ls-l
+pwd
+cd Rando's
+  254  ls-l
+  255  pwd
+  256  pwd
+  257  cd Resume
+  258  ls -l
+  259  cd Drawings
+  260  ls
+  261  pwd
+  262  ..
+  263  cd ..
+  264  pwd
+  265  cd ..
+  266   pwd
+  267  cd ..
+  268  pwd
+  269  ls -l
+  270  cd Sites
+  271  pwd
+  272  ls -1
+  273  pwd
+  274  ls -1
+  275  ls -l
+  276  cd Sites
+  277  ls -1
+  278  ls -l
+  279  cd ..
+  280  cd ..
+  281  pwd
+  282  ls
+  283  cd stefanredfield
+  284  pwd
+  285  ls -l
+  286  cd Desktop
+  287  pwd
+  288  ls -l
+  289  cd Sites
+  290  ls -l
+  291  cd ../Resume
+  292  pwd
+  293  ls -l
+  294  cd ..
+  295  pwd
+  296  cd Sites
+  297  ls -l
+  298  cd bare/ frontier
+  299  cd bare frontier
+  300  ls -l
+  301  cd bare frontier
+  302  cd bare/ frontier
+  303  ls -l
+  304  cd bare\ frontier/
+  305  ls -l
+  306  cd img; ls
+  307  cs ..; ls -l
+  308  pwd
+  309  cd ..; ls -l
+  310  cd img/
+  311  pwd
+  312  ls-l
+  313  cd ..
+  314  cd img
+  315  ls
+  316  cd..
+  317  cd ..
+  318  cd ../..
+  319  ls -l
+  320  cd Sites
+  321  ls -l
+  322  cd bare\ frontier/
+  323  ls -l
+  324  cd
+  325  cd /
+  326  ls -l
+  327  cd Users
+  328  ls -l
+  329  cd stefanredfield
+  330  ls -l
+  331  cd
+  332  cd ls ..
+  333  cd .. ls
+  334  ls -l
+  335  ls ~
+  336  ls /
+  337  ls / Library
+  338  ls -l  / Library
+  339  ls /Applications
+  340  ls-l
+  341  cd..
+  342  cd ..
+  343  ls-l
+  344  ls -l
+  345  ls /Users -l
+  346  cd stefanredfield
+  347  pwd
+  348  ls -l
+  349  ls .
+  350  cd Users
+  351  ls -l
+  352  cd stefanredfield
+  353  pwd
+  354  ls -l
+  355  history
+  356  history | less
+  357  history | less
+  358  pwd ls
+  359  ls -l
+  360  history > moving_around.txt
+  361  ls -l
+  362  subl moving_around.txt
+  363  history /Sites/moving_around.txt
+  364  pwd
+  365  ls -l
+  366  history > /Sites/moving_around.txt
+  367  history test/moving_around.txt
+  368  ls -l
+  369  histor >> moving_around.txt - FORGOT TO ADD "Y" TO history 
+  370  history >> moving_around.txt - SUCCESFULLY ADDED MORE INFO TO THIS FILE, SEE EARLIER COMMENTS FOR ENDING OF PREVIOUS LIST. CAN I ADD THE LS TO THIS?
+total 40
+drwxr-xr-x+   3 stefanredfield  staff    102 Mar 19  2013 Adobe Illustrator CS6
+drwxr-xr-x+   3 stefanredfield  staff    102 Feb  6  2013 Adobe Photoshop CS6
+drwxr-xr-x+   5 stefanredfield  staff    170 Oct 26 18:08 Applications
+drwx------+  24 stefanredfield  staff    816 Nov 15 09:43 Desktop
+drwx------+  25 stefanredfield  staff    850 Nov  5 14:32 Documents
+drwx------+ 222 stefanredfield  staff   7548 Nov 13 14:13 Downloads
+drwx------@  23 stefanredfield  staff    782 Nov 14 18:28 Dropbox
+drwx------@  58 stefanredfield  staff   1972 Nov 12 18:31 Library
+drwx------+   9 stefanredfield  staff    306 Aug  7 19:55 Movies
+drwx------+   8 stefanredfield  staff    272 Apr 30  2013 Music
+drwx------+  20 stefanredfield  staff    680 Nov 10 12:52 Pictures
+drwxr-xr-x+   4 stefanredfield  staff    136 Jan 30  2013 Public
+drwxr-xr-x+   3 stefanredfield  staff    102 Jun 23 16:33 Sites
+drwxr-xr-x    3 stefanredfield  staff    102 Oct  8 17:32 bin
+-rw-r--r--    1 stefanredfield  staff  16569 Nov 15 12:02 moving_around.txt
