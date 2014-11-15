@@ -1,0 +1,5 @@
+You can create different Git branches, and change which is active. Im assuming that in this way you can work on projects while leaving the "master" branch alone. 
+
+git branch branchname = creates a new branch
+git branch = view the available branches
+git checkout branchname = change active branch
