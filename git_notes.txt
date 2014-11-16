@@ -1,0 +1,13 @@
+You can create different Git branches, and change which is active. Im assuming that in this way you can work on projects while leaving the "master" branch alone. 
+
+git branch branchname = creates a new branch
+git branch = view the available branches
+git checkout branchname = change active branch
+
+Hey guys, workin on pushing to git hub.
+
+When you push to git hub it only pushes the branch you've told it to
+
+command is .... $ git push -u origin master
+
+the -u is only for the first push and basically allows you to shortcus the pushes to master, or whatever you assigned it to. 
